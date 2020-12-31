@@ -1,0 +1,9 @@
+2020.12.31 01:06:20 INFO  Started: Metals version 0.9.8 in workspace 'C:\xampp\htdocs\learns\Payment App' for client vscode.
+2020.12.31 01:06:22 INFO  time: initialize in 2.3s
+2020.12.31 01:06:24 WARN  Build server is not auto-connectable.
+2020.12.31 01:06:24 WARN  no build tool detected in workspace 'C:\xampp\htdocs\learns\Payment App'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.31 03:11:28 INFO  shutting down Metals
+2021.01.01 02:06:27 INFO  Started: Metals version 0.9.8 in workspace 'C:\xampp\htdocs\learns\Payment App' for client vscode.
+2021.01.01 02:06:29 INFO  time: initialize in 2.33s
+2021.01.01 02:06:31 WARN  Build server is not auto-connectable.
+2021.01.01 02:06:31 WARN  no build tool detected in workspace 'C:\xampp\htdocs\learns\Payment App'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
